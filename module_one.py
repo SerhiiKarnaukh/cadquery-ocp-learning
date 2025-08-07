@@ -20,4 +20,4 @@ result_plate_with_hole = (
     .hole(10)
 )
 # Show object
-show_object(result_cut_sphere)
+# show_object(result_cut_sphere)
